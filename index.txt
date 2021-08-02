@@ -1,0 +1,4 @@
+<!-- basics of Java Script -->
+<!-- basic fundamentals and concepts of chart.js -->
+<!-- Basic project type in chart.js -->
+<!-- deploying it in github using vs code -->
