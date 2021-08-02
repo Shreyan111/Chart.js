@@ -1,3 +1,3 @@
 # Chart.js
 
-This is a samll project on Chart.js
+This is a small project on Chart.js
